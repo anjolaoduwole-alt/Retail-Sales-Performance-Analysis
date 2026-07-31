@@ -1,6 +1,6 @@
 # Retail-Sales-Performance-Analysis
 
-## Tools Used
+## <img width="50" height="50" alt="Image" src="https://github.com/user-attachments/assets/21b026cb-5e56-4452-9043-d344fb4a4115" />Tools Used
 -Microsoft Excel
 
 ## Project Overview
